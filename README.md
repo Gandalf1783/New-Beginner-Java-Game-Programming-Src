@@ -9,3 +9,6 @@ An updated series can be found on the CodeNMore channel utilizing the LibGDX gam
 ## Source Code
 
 The source code for each episode in the series can be found here. Look in this repository and select the folder that corresponds to the episode number you are looking for.  Within that folder is my own Eclipse project folder, though you don't need Eclipse to view any of the source code or run it.
+
+## What im adding:
+I am adding MultiplayerSupport for this game. You can view the "JRPG-Game-Server" Repo for this. I will update and release the code then there.
